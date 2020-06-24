@@ -1,7 +1,7 @@
 # Get Files From Rede
 checks which datafiles are in internal rede ('Z:'), for each cil. can be personalized, shows dates available, cils, management, tt, and can write to an excel file with conditional formatting.  
 
-
+Download Exe File: https://github.com/FranMacedo/GetFilesFromInternalNetwork/blob/master/run_gui.exe
 ## Requirements
 A connection to rede (Z:) should be available.
 
